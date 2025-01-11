@@ -15,7 +15,7 @@ function GMap() {
   return (
     <div className='flex justify-center items-center'>
 
-    <LoadScript googleMapsApiKey="AIzaSyCsX3HuPI9nxqqKXWFG_RQn16-tIyJjFfc">
+    <LoadScript googleMapsApiKey="">
       <GoogleMap
         mapContainerStyle={mapContainerStyle}
         center={center}
